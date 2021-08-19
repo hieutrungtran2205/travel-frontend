@@ -1,0 +1,36 @@
+footer .container {
+    margin-left: 0;
+    width: 100%;
+}
+
+.page-footer .col {
+    margin-left: 60px;
+    max-width: 280px;
+}
+
+.social {
+    display: flex;
+}
+
+.social i {
+    background: white;
+    color: black;
+}
+
+.social a {
+    margin-left: 16px;
+}
+
+.col h5 {
+    color: black;
+}
+
+.copyright {
+    margin-top: 50px;
+    height: 100px;
+}
+
+
+
+
+

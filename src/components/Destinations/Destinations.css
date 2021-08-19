@@ -1,0 +1,37 @@
+.title-des {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.destinations {
+    display: flex;
+}
+
+.destinations .card {
+    height: 550px;
+    width: 390px;
+    -webkit-box-shadow: 0 0 0 0;
+    box-shadow: 0 0 0 0;
+    cursor: pointer;
+}
+
+.destinations .card .card-content {
+    position: absolute;
+    background-color: white;
+    margin-top: -182px;
+    width: 315px;
+    height: 130px;
+    margin-left: 37px;
+    border-bottom-left-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
+
+.destinations .card .card-content p {
+    margin-bottom: 16px;
+}
+
+.trip {
+    display: flex;
+}
+
+

@@ -1,0 +1,49 @@
+.navbar {
+    -webkit-box-shadow: 0 0 0 0;
+    box-shadow: 0 0 0 0;
+}
+
+.nav-wrapper {
+    background-color: white;
+    color: black;
+}
+
+.nav-wrapper a {
+    color: black;
+}
+
+#nav-mobile li {
+    min-width: 130px;
+    text-align: center;
+}
+
+.banner {
+    display: flex;
+    margin-top: 50px;
+}
+
+.text-content {
+    margin-top: 100px;
+}
+
+.text-content h6 {
+    font-weight: bold;
+    color: rgb(255, 51, 0);
+}
+
+.text-content h1 {
+    font-weight: bold;
+}
+
+.text-content .buttons a {
+    margin-right: 16px;
+}
+
+.buttons {
+    display: flex;
+}
+
+
+
+
+

@@ -1,0 +1,81 @@
+.row-es {
+    background-color: #f9f7fe;
+    height: 407px;
+    border-radius: 150px 150px 50px 50px;
+}
+
+.es {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding-top: 50px;
+}
+
+.row-es .input-email {
+    margin-right: 16px;
+}
+
+h3, h4, h5, h6, span, p {
+    font-weight: bold;
+}
+
+p, a, h4, h5, h6 {
+    color: #5e6282;
+}
+
+.email-sub {
+    display: flex;
+    max-width: 600px;
+    margin-left: 140px;
+    margin-top: 100px;
+}
+
+.patreons {
+    margin-bottom: 50px;
+}
+
+.patreons img {
+   margin-right: 70px;
+}
+
+.row-trip {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.row-trip .trip-thumbnail {
+    margin-top: -100px;
+}
+
+.collections {
+    margin-top: 50px;
+    width: 395px;
+}
+
+.collections img {
+    margin-right: 30px;
+}
+
+.collections .item {
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.collections .content {
+    height: 47px;
+    line-height: 17px;
+    color: black;
+}
+
+.row-test img {
+    margin-left: 180px;
+}
+
+.row-test {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+
+
+
